@@ -1,2 +1,2 @@
 # Ping-Pong-Game-Graphic-Design Using Canvas
-Ping Pong Game Graphic Design using Canvas 
+https://praveensingh1999.github.io/Ping-Pong-Game-Graphic-Design/
